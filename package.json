@@ -1,0 +1,35 @@
+{
+  "name": "practica_nodejs",
+  "version": "1.0.0",
+  "description": "Practicas de Nde para estudiar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jonatan1991/Practica_NodeJS.git"
+  },
+  "keywords": [
+    "practicas",
+    "node",
+    "nodejs",
+    "Jonatan",
+    "estudio"
+  ],
+  "author": "Jonatan Aguila",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jonatan1991/Practica_NodeJS/issues"
+  },
+  "homepage": "https://github.com/Jonatan1991/Practica_NodeJS#readme",
+  "dependencies": {
+    "picocolors": "1.1.1"
+  },
+  "devDependencies": {
+    "standard": "17.1.2"
+  },
+  "eslintConfig": {
+    "extends": "standard"
+  }
+}
